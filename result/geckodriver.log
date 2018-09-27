@@ -1,0 +1,286 @@
+1537959588469	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Noot\\AppData\\Local\\Temp\\rust_mozprofile.n6gJsUnlfwIR"
+1537959662565	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Noot\\AppData\\Local\\Temp\\rust_mozprofile.6l36uACTf3Xr"
+1537959664809	Marionette	INFO	Listening on port 52092
+1537959665296	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537959665353	Marionette	DEBUG	[6442450945] Frame script loaded
+1537959665354	Marionette	DEBUG	[6442450945] Frame script registered
+1537959665377	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537959665891	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537959665911	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/%20gc
+1537959666076	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/%20gc
+[Child 3848, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 31537959676821	Marionette	INFO	Stopped listening on port 52092
+[GPU 12676, Chrom
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537959692452	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Noot\\AppData\\Local\\Temp\\rust_mozprofile.1hdsUjD2Zx6c"
+1537959694750	Marionette	INFO	Listening on port 52124
+1537959695206	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537959695260	Marionette	DEBUG	[6442450945] Frame script loaded
+1537959695261	Marionette	DEBUG	[6442450945] Frame script registered
+1537959695283	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537959695699	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537959695709	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/%20google
+1537959695884	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/%20google
+[Child 11620, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11620, Chrome_ChildThread] WARNING: pipe error: 109: file 1537959698490	Marionette	INFO	Stopped listening on port 52124
+[GPU 13008, Chrome
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1538019030361	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Noot\\AppData\\Local\\Temp\\rust_mozprofile.QkN1uB51vtFG"
+1538019033620	Marionette	INFO	Listening on port 52475
+1538019033728	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538019033779	Marionette	DEBUG	[6442450945] Frame script loaded
+1538019033781	Marionette	DEBUG	[6442450945] Frame script registered
+1538019033863	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1538019034468	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1538019034486	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/%20google
+1538019034632	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/%20google
+[Child 14696, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1538019039334	Marionette	INFO	Stopped listening on port 52475
+[GPU 5952, Chrom
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1538019057541	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Noot\\AppData\\Local\\Temp\\rust_mozprofile.HpM3p4n5colb"
+1538019059768	Marionette	INFO	Listening on port 52505
+1538019059795	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538019059857	Marionette	DEBUG	[6442450945] Frame script loaded
+1538019059861	Marionette	DEBUG	[6442450945] Frame script registered
+1538019059916	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1538019060407	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1538019060416	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/%20gc
+1538019060556	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/%20gc
+[Child 10696, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10696, C1538019067701	Marionette	INFO	Stopped listening on port 52505
+[GPU 16136, Ch
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1538019078969	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Noot\\AppData\\Local\\Temp\\rust_mozprofile.3vvl9VaBufFE"
+1538019081273	Marionette	INFO	Listening on port 52535
+1538019081708	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538019081771	Marionette	DEBUG	[6442450945] Frame script loaded
+1538019081773	Marionette	DEBUG	[6442450945] Frame script registered
+1538019081796	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1538019082267	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1538019082431	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/
+1538019083752	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/
+1538019413014	Marionette	INFO	Stopped listening on port 52535
+[GPU 6700, Chrome_Chi
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+\\Noot\\AppData\\Local\\Temp\\rust_mozprofile.xr0b8bmVCht0"
+1538019244163	Marionette	INFO	Listening on port 52577
+1538019244583	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538019244624	Marionette	DEBUG	[6442450945] Frame script loaded
+1538019244626	Marionette	DEBUG	[6442450945] Frame script registered
+1538019244650	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1538019245154	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1538019245327	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/
+1538019247586	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/
+[Child 11080, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1101538019411075	Marionette	INFO	Stopped listening on port 52577
+[GPU 980, Chrome_C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+tificate errors will be ignored for this session
+1538019347439	Marionette	DEBUG	[6442450945] Frame script loaded
+1538019347440	Marionette	DEBUG	[6442450945] Frame script registered
+1538019347470	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1538019348405	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1538019348414	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/%20,%20chrome
+1538019348570	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/%20,%20chrome
+1538019411951	Marionette	INFO	Stopped listening on port 52638
+[GPU 11768, Chrome
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ers\\Noot\\AppData\\Local\\Temp\\rust_mozprofile.eUU45Ee3WQ3w"
+1538019405546	Marionette	INFO	Listening on port 52670
+1538019405807	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538019405863	Marionette	DEBUG	[6442450945] Frame script loaded
+1538019405865	Marionette	DEBUG	[6442450945] Frame script registered
+1538019405899	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1538019406344	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1538019406363	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/%20browser=chrome
+1538019406508	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/%20browser=chrome
+[Parent 9988, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15280, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 151538019408542	Marionette	INFO	Stopped listening on port 52670
+[GPU 12848, Chrome_
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1538019448323	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Noot\\AppData\\Local\\Temp\\rust_mozprofile.oUN1PdgpG1Nb"
+1538019450580	Marionette	INFO	Listening on port 52700
+1538019451080	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538019451137	Marionette	DEBUG	[6442450945] Frame script loaded
+1538019451138	Marionette	DEBUG	[6442450945] Frame script registered
+1538019451160	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1538019451624	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1538019451632	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/%20Chrome
+1538019451814	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/%20Chrome
+[Child 8656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8656,1538019453488	Marionette	INFO	Stopped listening on port 52700
+[GPU 15624, Ch
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1538023861752	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Noot\\AppData\\Local\\Temp\\rust_mozprofile.hnwTNO3AsOz8"
+1538023864034	Marionette	INFO	Listening on port 53228
+1538023864508	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538023864555	Marionette	DEBUG	[6442450945] Frame script loaded
+1538023864556	Marionette	DEBUG	[6442450945] Frame script registered
+1538023864578	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1538023865685	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1538023865856	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/?gws_rd=ssl
+1538023867770	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/?gws_rd=ssl
+[Parent 10040, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1538023913977	Marionette	INFO	Stopped listening on port 53228
+[GPU 11248, Chro
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1538039367730	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Noot\\AppData\\Local\\Temp\\rust_mozprofile.0HU9Yc7dqhQ2"
+1538039371975	Marionette	INFO	Listening on port 56014
+1538039372079	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538039372142	Marionette	DEBUG	[6442450945] Frame script loaded
+1538039372151	Marionette	DEBUG	[6442450945] Frame script registered
+1538039372204	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1538039372577	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1538039372589	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://103.27.203.78:8001/eh/login%20chrome
+1538039372655	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://103.27.203.78:8001/eh/login%20chrome
+1538039374901	Marionette	INFO	Stopped listening on port 56014
+[Child 3500, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3500, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 12576, Chrome_Chi
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1538039455183	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Noot\\AppData\\Local\\Temp\\rust_mozprofile.j2ymns1gDn3C"
+1538039457709	Marionette	INFO	Listening on port 56116
+1538039457962	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538039458042	Marionette	DEBUG	[6442450945] Frame script loaded
+1538039458044	Marionette	DEBUG	[6442450945] Frame script registered
+1538039458081	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1538039461289	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1538039467362	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.youtube.com/%20chrome
+1538039467490	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1538039467491	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450945
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1538039467935	Marionette	INFO	Stopped listening on port 56116
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1538039624213	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Noot\\AppData\\Local\\Temp\\rust_mozprofile.xWxMYY7VLFQz"
+1538039626620	Marionette	INFO	Listening on port 56208
+1538039626955	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538039627009	Marionette	DEBUG	[6442450945] Frame script loaded
+1538039627011	Marionette	DEBUG	[6442450945] Frame script registered
+1538039627040	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1538039629606	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1538039633772	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.youtube.com/%20chrome
+1538039633910	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1538039633911	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450945
+[Parent 7864, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1538039634343	Marionette	INFO	Stopped listening on port 56208
+[GPU 14944, Chrome_C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1538040880612	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Noot\\AppData\\Local\\Temp\\rust_mozprofile.N5IqXReAQann"
+1538040882858	Marionette	INFO	Listening on port 56594
+1538040882877	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538040882933	Marionette	DEBUG	[6442450945] Frame script loaded
+1538040882937	Marionette	DEBUG	[6442450945] Frame script registered
+1538040882982	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1538040886207	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1538040894030	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.youtube.com/%20chrome
+1538040896061	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.youtube.com/%20chrome
+1538040896191	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.youtube.com/%20chrome
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1538040896333	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1538040896333	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450945
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x560027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E00B1,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1538040896659	Marionette	INFO	Stopped listening on port 56594
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

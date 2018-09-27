@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 3.0.4 (Python 3.7.0 on win32)" generated="20180927 18:48:45.788">
+<suite id="s1" name="Test" source="C:\Users\Noot\Documents\BBTest\Robotest\basic\test">
+<suite id="s1-s1" name="Project" source="C:\Users\Noot\Documents\BBTest\Robotest\basic\test\project.robot">
+<test id="s1-s1-t1" name="Search">
+<kw name="Open Browser" library="Selenium2Library" type="setup">
+<doc>Opens a new browser instance to the given ``url``.</doc>
+<arguments>
+<arg>${GOOGLE URL}</arg>
+<arg>${BROWSER}</arg>
+</arguments>
+<msg timestamp="20180927 18:48:47.096" level="INFO">Opening browser 'chrome' to base url 'https://www.google.com/'.</msg>
+<status status="PASS" starttime="20180927 18:48:47.095" endtime="20180927 18:48:54.491"></status>
+</kw>
+<kw name="ค้นหาคำว่าสวัสดี">
+<kw name="Input Text" library="Selenium2Library">
+<doc>Types the given ``text`` into text field identified by ``locator``.</doc>
+<arguments>
+<arg>lst-ib</arg>
+<arg>สวัสดี</arg>
+</arguments>
+<msg timestamp="20180927 18:48:54.493" level="INFO">Typing text 'สวัสดี' into text field 'lst-ib'.</msg>
+<status status="PASS" starttime="20180927 18:48:54.493" endtime="20180927 18:48:54.615"></status>
+</kw>
+<kw name="Click Button" library="Selenium2Library">
+<doc>Clicks button identified by ``locator``.</doc>
+<arguments>
+<arg>btnK</arg>
+</arguments>
+<msg timestamp="20180927 18:48:54.616" level="INFO">Clicking button 'btnK'.</msg>
+<status status="PASS" starttime="20180927 18:48:54.616" endtime="20180927 18:49:05.368"></status>
+</kw>
+<status status="PASS" starttime="20180927 18:48:54.492" endtime="20180927 18:49:05.369"></status>
+</kw>
+<kw name="รอจนกว่าจะเจอคำว่าสวัสดีตอนเช้า">
+<kw name="Wait Until Page Contains" library="Selenium2Library">
+<doc>Waits until ``text`` appears on current page.</doc>
+<arguments>
+<arg>สวัสดีตอนเช้า</arg>
+</arguments>
+<status status="PASS" starttime="20180927 18:49:05.371" endtime="20180927 18:49:05.406"></status>
+</kw>
+<status status="PASS" starttime="20180927 18:49:05.370" endtime="20180927 18:49:05.406"></status>
+</kw>
+<kw name="capture หน้าจอ">
+<arguments>
+<arg>index=1</arg>
+</arguments>
+<kw name="Log To Console" library="BuiltIn">
+<doc>Logs the given message to the console.</doc>
+<arguments>
+<arg>test case No.${index}</arg>
+</arguments>
+<status status="PASS" starttime="20180927 18:49:05.407" endtime="20180927 18:49:05.408"></status>
+</kw>
+<kw name="Capture Page Screenshot" library="Selenium2Library">
+<doc>Takes screenshot of the current page and embeds it into log file.</doc>
+<arguments>
+<arg>filename=TestcasesNo.${index}.png</arg>
+</arguments>
+<msg timestamp="20180927 18:49:05.738" level="INFO" html="yes">&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="3"&gt;&lt;a href="TestcasesNo.1.png"&gt;&lt;img src="TestcasesNo.1.png" width="800px"&gt;&lt;/a&gt;</msg>
+<status status="PASS" starttime="20180927 18:49:05.408" endtime="20180927 18:49:05.738"></status>
+</kw>
+<status status="PASS" starttime="20180927 18:49:05.407" endtime="20180927 18:49:05.738"></status>
+</kw>
+<kw name="Close All Browsers" library="Selenium2Library" type="teardown">
+<doc>Closes all open browsers and resets the browser cache.</doc>
+<status status="PASS" starttime="20180927 18:49:05.739" endtime="20180927 18:49:07.985"></status>
+</kw>
+<status status="PASS" starttime="20180927 18:48:47.095" endtime="20180927 18:49:07.986" critical="yes"></status>
+</test>
+<test id="s1-s1-t2" name="E-hour">
+<kw name="Open Browser" library="Selenium2Library" type="setup">
+<doc>Opens a new browser instance to the given ``url``.</doc>
+<arguments>
+<arg>${GOOGLE URL}</arg>
+<arg>${BROWSER}</arg>
+</arguments>
+<msg timestamp="20180927 18:49:07.989" level="INFO">Opening browser 'chrome' to base url 'https://www.google.com/'.</msg>
+<status status="PASS" starttime="20180927 18:49:07.989" endtime="20180927 18:49:23.245"></status>
+</kw>
+<kw name="เปิดหน้า youtube">
+<kw name="Go To" library="Selenium2Library">
+<doc>Navigates the active browser instance to the provided ``url``.</doc>
+<arguments>
+<arg>https://www.youtube.com/</arg>
+</arguments>
+<msg timestamp="20180927 18:49:23.246" level="INFO">Opening url 'https://www.youtube.com/'</msg>
+<status status="PASS" starttime="20180927 18:49:23.245" endtime="20180927 18:49:37.915"></status>
+</kw>
+<status status="PASS" starttime="20180927 18:49:23.245" endtime="20180927 18:49:37.915"></status>
+</kw>
+<kw name="capture หน้าจอ">
+<arguments>
+<arg>index=2</arg>
+</arguments>
+<kw name="Log To Console" library="BuiltIn">
+<doc>Logs the given message to the console.</doc>
+<arguments>
+<arg>test case No.${index}</arg>
+</arguments>
+<status status="PASS" starttime="20180927 18:49:37.917" endtime="20180927 18:49:37.917"></status>
+</kw>
+<kw name="Capture Page Screenshot" library="Selenium2Library">
+<doc>Takes screenshot of the current page and embeds it into log file.</doc>
+<arguments>
+<arg>filename=TestcasesNo.${index}.png</arg>
+</arguments>
+<msg timestamp="20180927 18:49:38.384" level="INFO" html="yes">&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="3"&gt;&lt;a href="TestcasesNo.2.png"&gt;&lt;img src="TestcasesNo.2.png" width="800px"&gt;&lt;/a&gt;</msg>
+<status status="PASS" starttime="20180927 18:49:37.918" endtime="20180927 18:49:38.384"></status>
+</kw>
+<status status="PASS" starttime="20180927 18:49:37.916" endtime="20180927 18:49:38.384"></status>
+</kw>
+<kw name="Close All Browsers" library="Selenium2Library" type="teardown">
+<doc>Closes all open browsers and resets the browser cache.</doc>
+<status status="PASS" starttime="20180927 18:49:38.385" endtime="20180927 18:49:40.685"></status>
+</kw>
+<status status="PASS" starttime="20180927 18:49:07.988" endtime="20180927 18:49:40.686" critical="yes"></status>
+</test>
+<kw name="Log To Console" library="BuiltIn" type="teardown">
+<doc>Logs the given message to the console.</doc>
+<arguments>
+<arg>THE END!!!</arg>
+</arguments>
+<status status="PASS" starttime="20180927 18:49:40.689" endtime="20180927 18:49:40.691"></status>
+</kw>
+<doc>This is a basic test</doc>
+<status status="PASS" starttime="20180927 18:48:45.861" endtime="20180927 18:49:40.691"></status>
+</suite>
+<status status="PASS" starttime="20180927 18:48:45.790" endtime="20180927 18:49:40.697"></status>
+</suite>
+<statistics>
+<total>
+<stat pass="2" fail="0">Critical Tests</stat>
+<stat pass="2" fail="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="2" fail="0" id="s1" name="Test">Test</stat>
+<stat pass="2" fail="0" id="s1-s1" name="Project">Test.Project</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
